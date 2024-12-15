@@ -18,7 +18,7 @@ Este laboratorio combina análisis exploratorio, diseño de modelos y evaluació
 
 ### Unidad 1: Redes LSTM para series temporales
 
-![MLA](Image/Chigugua.jpg)
+![LSTM](Image/rnn_lstm.png)
 
 Las redes LSTM (Long Short-Term Memory) son una variante de redes neuronales recurrentes diseñadas para manejar series temporales. Su capacidad para retener información a largo plazo las hace ideales para predecir valores futuros basándose en patrones históricos. En esta unidad, se entrenarán modelos para prever los valores de producción láctea mensual y el índice IPSA, generando predicciones para los próximos tres meses. Se evaluará el desempeño del modelo mediante métricas como RMSE y MAE, y se analizarán gráficas comparativas para determinar la precisión del modelo.
 
