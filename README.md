@@ -24,7 +24,13 @@ Las redes LSTM (Long Short-Term Memory) son una variante de redes neuronales rec
 
 ---
 
+
 ### Unidad 2: Autoencoders para procesamiento de imágenes
+
+
+![Autoencoders](Image/DL_AutoEN.jpg)
+
+
 
 Los autoencoders son redes neuronales diseñadas para tareas de reducción de dimensionalidad, reconstrucción de datos y eliminación de ruido. En esta unidad, se implementará un modelo de autoencoder para procesar imágenes ruidosas, transformándolas en versiones limpias y legibles. El proceso incluye:  
 
